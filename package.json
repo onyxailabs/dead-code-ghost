@@ -1,0 +1,1 @@
+{"bin":{"dead-code-ghost":"ghost.js"},"description":"Local, read-only JavaScript/TypeScript dead-function finder. Report only — it never deletes or modifies code.","engines":{"node":">=18"},"license":"MIT","main":"ghost.js","name":"dead-code-ghost","scripts":{"test":"node tests/run.js"},"version":"0.1.0"}
